@@ -164,7 +164,7 @@ burger
 .burger {
     width: 40px;
     height: 40px;
-    background-image:url(img/burger.svg);
+    background-image:url(burger.svg);
     background-size: 24px;
     background-position: center;
     background-repeat: no-repeat;
@@ -177,7 +177,7 @@ burger
 }
 
 .burger.is-active {
-    background-image: url(img/close.svg);
+    background-image: url(close.svg);
     z-index: 5;
 }
 .menu {
